@@ -1,14 +1,24 @@
+## Synopsis
 
-Live Demo Here:  
-http://marcopeg.github.io/MediaTable
+What does it do?
+Why did we fork this?
 
+## Usage
 
+How to use it?
 
+## Installation
 
---- IMPORTANT ---
+How to install it in a project?
 
-**THIS IS AN OLD REPOSITORY** 
-I intentionally leave this repository available to remember me how I was coding back in 2011! 
-Please don't clone or use this repo because is certainly out of date!
+## Demo
 
---- IMPORTANT --- 
+You can see a live demo [here](http://marcopeg.github.io/MediaTable).
+
+## Contributors
+
+Who are we?
+
+## Licence
+
+Can I use it?

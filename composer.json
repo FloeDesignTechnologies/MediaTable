@@ -1,0 +1,33 @@
+{
+    "name": "components/mediatable",
+    "description": "Responsive table jQuery plugin.",
+    "keywords": [
+      "jQuery",
+      "responsive",
+      "client",
+      "browser"
+    ],
+    "type": "component",
+    "authors": [
+        {
+            "name": "Pierre Villette",
+            "email": "villette@floe.ca"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "mediatable.js"
+            ],
+            "styles": [
+                "mediatable.css"
+            ],
+            "files": [
+                "index.html"
+            ]
+        }
+    }
+}

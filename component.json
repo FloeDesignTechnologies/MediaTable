@@ -1,0 +1,23 @@
+{
+  "name": "mediatable",
+  "repository": "FloeDesignTechnologies/MediaTable",
+  "description": "Responsive table jQuery plugin.",
+  "keywords": [
+    "jQuery",
+    "responsive",
+    "client",
+    "browser"
+  ],
+  "author": "Pierre Villette <villette@floe.ca>",
+  "version": "0.0.1",
+  "main": "mediatable.js",
+  "scripts": [
+    "mediatable.js"
+  ],
+  "styles": [
+    "mediatable.css"
+  ],
+  "files": [
+    "index.html"
+  ]
+}
