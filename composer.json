@@ -20,10 +20,10 @@
     "extra": {
         "component": {
             "scripts": [
-                "mediatable.js"
+                "jquery.mediaTable.js"
             ],
             "styles": [
-                "mediatable.css"
+                "jquery.mediaTable.css"
             ],
             "files": [
                 "index.html"

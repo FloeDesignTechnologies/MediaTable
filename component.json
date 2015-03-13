@@ -10,12 +10,12 @@
   ],
   "author": "Pierre Villette <villette@floe.ca>",
   "version": "0.0.1",
-  "main": "mediatable.js",
+  "main": "jquery.mediaTable.js",
   "scripts": [
-    "mediatable.js"
+    "jquery.mediaTable.js"
   ],
   "styles": [
-    "mediatable.css"
+    "jquery.mediaTable.css"
   ],
   "files": [
     "index.html"
